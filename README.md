@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang and AWS** <img align="right" style="width:16rem; height:auto" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966"/>
 
-- 👨‍💻 All of my projects are available [@BElluu](github.com/BElluu)
+- 👨‍💻 All of my projects are available [@BElluu](https://github.com/BElluu?tab=repositories)
 - 🔭 Interested **Stock and Beer**
 - ⚡ Motto **You can always change your life.**
 
