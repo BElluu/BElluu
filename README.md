@@ -34,7 +34,7 @@ __Check out my GitHub repository:__
       alt="csharp"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
   <a href="https://go.dev/" target="_blank"> 
@@ -55,6 +55,15 @@ __Check out my GitHub repository:__
     <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
       alt="nginx"/> 
   </a> 
+    <a href="https://www.ansible.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ansible-black.svg?style=for-the-badge&logo=ansible&logoColor=white" 
+      alt="nginx"/> 
+  </a>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
 </p>
 
 <h3 align="center">Database</h3>
@@ -103,11 +112,6 @@ __Check out my GitHub repository:__
   <a href="https://gitlab.com/BElluu1" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
