@@ -22,6 +22,9 @@ __Check out my GitHub repository:__
         <a href="https://github.com/BElluu/OptimaSync.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaSync" alt="GitHub Stats" />
     </a>
+            <a href="https://github.com/BElluu/MailNews.Cloud.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=MailNews.Cloud" alt="GitHub Stats" />
+    </a>
             <a href="https://github.com/BElluu/OptimaTrackerWebService.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaTrackerWebService" alt="GitHub Stats" />
     </a>
