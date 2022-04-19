@@ -120,7 +120,7 @@ __Check out my GitHub repository:__
     <img src="https://img.shields.io/badge/Visual%20Studio-2C2255.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio"/> 
   </a>
   <a href="https://www.jetbrains.com/go/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=goland&logoColor=white" alt="vsCode"/> 
+    <img src="https://img.shields.io/badge/GoLand-007ACC.svg?style=for-the-badge&logo=goland&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/idea" target="_blank">
     <img src="https://img.shields.io/badge/Intellij%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="jetbrains" />
