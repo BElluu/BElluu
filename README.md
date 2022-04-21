@@ -163,7 +163,7 @@ __Check out my GitHub repository:__
 
 ----
 
-<h3 align="center">Hot to reach me</h3> 
+<h3 align="center">How to reach me</h3> 
 <p align="center">
 <a href="mailto: bkomendarczuk@gmail.com">
 <img src="https://img.shields.io/badge/-bkomendarczuk%40gmail.com-BB001B?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a href="https://www.linkedin.com/in/bartlomiej-komendarczuk/"><img src="https://img.shields.io/badge/Bartek-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.devopsowy.pl/"><img src="https://img.shields.io/badge/Devopsowy.pl-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
