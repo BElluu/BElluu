@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Bartek<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A self-taught programmer from Poland</h3>
 
@@ -15,32 +14,36 @@
 __Check out my GitHub repository:__
 
 <div>
-  <p>
-    <a href="https://github.com/BElluu/ERPXT.PL.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=ERPXT.pl" alt="GitHub Stats" />
-    </a>
-        <a href="https://github.com/BElluu/OptimaSync.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaSync" alt="GitHub Stats" />
-    </a>
-        <a href="https://github.com/BElluu/MailNews.Cloud.git">
+            <a href="https://github.com/BElluu/MailNews.Cloud.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=MailNews.Cloud" alt="GitHub Stats" />
     </a>
-        <a href="https://github.com/BElluu/LoGo.git">
+            <a href="https://github.com/BElluu/LoGo.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=LoGo" alt="GitHub Stats" />
     </a>
+  <br></br>
+                <a href="https://github.com/BElluu/ERPXT.PL.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=ERPXT.pl" alt="GitHub Stats" />
+    </a>
+                <a href="https://github.com/BElluu/OptimaSync.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaSync" alt="GitHub Stats" />
+    </a>
+    <br></br>
       <a href="https://github.com/BElluu/OptimaTrackerWebService.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaTrackerWebService" alt="GitHub Stats" />
     </a>
             <a href="https://github.com/BElluu/OptimaTracker.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaTracker" alt="GitHub Stats" />
     </a>
+    <br></br>
             <a href="https://github.com/BElluu/Koko-WP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=Koko-WP" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/BElluu/PrestaShop-Ansible.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=PrestaShop-Ansible" alt="GitHub Stats" />
     </a>
+    <br></br>
   </p>
+    
 </div>
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
