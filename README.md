@@ -20,28 +20,24 @@ __Check out my GitHub repository:__
             <a href="https://github.com/BElluu/LoGo.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=LoGo" alt="GitHub Stats" />
     </a>
-  <br></br>
                 <a href="https://github.com/BElluu/ERPXT.PL.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=ERPXT.pl" alt="GitHub Stats" />
     </a>
                 <a href="https://github.com/BElluu/OptimaSync.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaSync" alt="GitHub Stats" />
     </a>
-    <br></br>
       <a href="https://github.com/BElluu/OptimaTrackerWebService.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaTrackerWebService" alt="GitHub Stats" />
     </a>
             <a href="https://github.com/BElluu/OptimaTracker.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=OptimaTracker" alt="GitHub Stats" />
     </a>
-    <br></br>
             <a href="https://github.com/BElluu/Koko-WP.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=Koko-WP" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/BElluu/PrestaShop-Ansible.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=belluu&repo=PrestaShop-Ansible" alt="GitHub Stats" />
     </a>
-    <br></br>
   </p>
     
 </div>
